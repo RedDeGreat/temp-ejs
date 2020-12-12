@@ -1,0 +1,19 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "description": "App Brewery Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedDeGreat/temp.git"
+  },
+  "author": "Arpad G. Bondor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedDeGreat/temp/issues"
+  },
+  "homepage": "https://github.com/RedDeGreat/temp#readme"
+}
